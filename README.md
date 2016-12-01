@@ -4,4 +4,4 @@
 
 Feel Free to contribute :P
 
-### Licence : MIT
+### License : MIT
