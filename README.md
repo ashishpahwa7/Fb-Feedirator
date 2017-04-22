@@ -1,19 +1,13 @@
-# FB-FeediRator( Just for Fun )
+# Fb-Feedirator (Just for Fun)
 
-### Allows you get custom news feeds on your terminal and alerts you whenever person(s) of your interest is publicly active on facebook
+Allows you to get custom news feed on your terminal and alerts you whenever person(s) of your interest is publicly active on facebook. Feel Free to contribute :P
 
+### Installation
 
-#Installation
+- In your virtual environment : `pip install -r requirements.txt`
 
-In your virtual environment
+- For demo : `python demo.py`
 
-    pip install -r requirements.txt
+### License 
 
-For demo:
-
-    python demo.py
-
-
-Feel Free to contribute :P
-
-### License : MIT
+The MIT License 2017 - [Ashish Pahwa](https://github.com/ashishpahwa7).
