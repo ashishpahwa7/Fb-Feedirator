@@ -1,8 +1,8 @@
 from FbFeed import NewsFeed
-
+import getpass
 
 username = raw_input('Enter your email id registered with facebook : ')
-password = raw_input('Enter your Password : ')
+password = getpass.getpass(prompt='Enter your Password : ',stream=None)
 print('Creating new session on Firefox..')
 fb = NewsFeed(username,password)
 print('Logging into your facebook account')
